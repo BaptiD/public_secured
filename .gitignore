@@ -1,0 +1,8 @@
+*.o
+*.a
+*.gcno
+*.gcda
+coding-style-reports.log
+.vscode
+vgcore.*
+*.save
